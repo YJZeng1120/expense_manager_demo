@@ -10,7 +10,7 @@
 - 即時接收財經新聞
 
 ### 開發時長：
-從無到建立，包含設計規劃，開發總時長為 3 週。
+- 從無到建立，包含設計規劃，開發總時長為 3 週。
 
 ### APP專案資料夾:
 `expense_manager_app`
@@ -21,8 +21,9 @@
     - Flutter
         - Design pattern: Model–view–controller(MVC)
         - dependencies: 
-        ![]()
+        - <img width="285" alt="dependencies" src="https://github.com/YJZeng1120/expense_manager_demo/assets/84773273/cb5e7ceb-fc2f-47ed-b162-dfbf33eb7d1d">
 - **後端**
+
     - SQLite
     - 串接提供新聞資料的 RESTful API
 - **版本控制與資料庫規劃**
