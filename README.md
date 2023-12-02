@@ -1,7 +1,7 @@
 # Expense Manager App
 
 ![Screenshot](https://github.com/YJZeng1120/expense_manager_demo/assets/84773273/e812e4f6-0dd5-417d-a568-14b66ad6ca56)
-![Screenshot](https://github.com/YJZeng1120/expense_manager_demo/assets/84773273/20558b17-f8bd-4433-89a2-623daf7c72fb)
+![Screenshot1](https://github.com/YJZeng1120/expense_manager_demo/assets/84773273/2ec3eb12-d2da-4b29-af40-c11238f63cd8)
 ![Database1](https://github.com/YJZeng1120/expense_manager_demo/assets/84773273/ecd33d09-f812-44ce-81d3-b96e9a91d6e8)
 
 ---
