@@ -18,7 +18,7 @@
 - 從無到建立，包含設計規劃，開發總時長為 3 週。
 
 ### APP專案資料夾：
-`expense_manager_app`
+:file_folder: `expense_manager_app`
 
 
 ## DEMO 影片
