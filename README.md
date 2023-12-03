@@ -28,9 +28,14 @@ Expense Manager APP是我在閒暇時間自主開發的項目。我希望開發�
 
 ## 使用工具
 - **Frontend**
-    - Flutter
-        - Design pattern: Model–view–controller(MVC)
-        - dependencies: 
+    - Flutter`v3.10.0`
+        - Design pattern
+            -  Model–view–controller(MVC)
+        - Main Dependencies:
+            - Bloc (State Management)
+            - http (API Router)
+            - dartz (Enhance the application build process)
+        - All Dependencies: 
         - <img width="285" alt="dependencies" src="https://github.com/YJZeng1120/expense_manager_demo/assets/84773273/cb5e7ceb-fc2f-47ed-b162-dfbf33eb7d1d">
 - **Backend**
     - SQLite
@@ -38,9 +43,6 @@ Expense Manager APP是我在閒暇時間自主開發的項目。我希望開發�
 - **Other Tools**
     - **Git** (Version control)
     - **DrawSQL** (Database design tool)
-
-
-
 
 
 
