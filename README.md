@@ -7,8 +7,9 @@
 ---
 
 ## 作品介紹
+Expense Manager APP是我在閒暇時間自主開發的項目。我希望開發一個簡單易用、無廣告干擾的解決方案，讓使用者能輕鬆追蹤財務。
 ### 功能：
-- 收支記錄（新增、編輯、刪除）
+- 收支記錄（新增、讀取、編輯、刪除）
 - 記帳日報/月報
 - 視覺化報表統計
 - 月曆/週歷切換
@@ -26,18 +27,17 @@
 
 
 ## 使用工具
-- **前端**
+- **Frontend**
     - Flutter
         - Design pattern: Model–view–controller(MVC)
         - dependencies: 
         - <img width="285" alt="dependencies" src="https://github.com/YJZeng1120/expense_manager_demo/assets/84773273/cb5e7ceb-fc2f-47ed-b162-dfbf33eb7d1d">
-- **後端**
-
+- **Backend**
     - SQLite
     - 串接提供新聞資料的 RESTful API
-- **版本控制與資料庫規劃**
-    - Git
-    - DrawSQL
+- **Other Tools**
+    - **Git** (Version control)
+    - **DrawSQL** (Database design tool)
 
 
 
