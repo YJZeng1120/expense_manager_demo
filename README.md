@@ -23,7 +23,7 @@ Expense Manager APP是我在閒暇時間自主開發的項目。我希望開發�
 
 
 ## DEMO 影片
-[![cover](https://github.com/YJZeng1120/expense_manager_demo/assets/84773273/83ef1951-94d4-432d-9fd6-bfef7c31dd51)](https://youtu.be/l09rLSNswLE)
+[![expense_cover](https://github.com/YJZeng1120/expense_manager_demo/assets/84773273/534ba401-aced-4273-85aa-075187df07d8)](https://youtu.be/V1HvQEdIZ74)
 
 
 ## 使用工具
@@ -33,8 +33,8 @@ Expense Manager APP是我在閒暇時間自主開發的項目。我希望開發�
             -  Model–view–controller(MVC)
         - Main Dependencies:
             - Bloc (State Management)
-            - http (API Router)
-            - dartz (Enhance the application build process)
+            - http (API Request)
+            - dartz (Error handling)
         - All Dependencies: 
         - <img width="285" alt="dependencies" src="https://github.com/YJZeng1120/expense_manager_demo/assets/84773273/cb5e7ceb-fc2f-47ed-b162-dfbf33eb7d1d">
 - **Backend**
