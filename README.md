@@ -5,7 +5,11 @@
 ![Database1](https://github.com/YJZeng1120/expense_manager_demo/assets/84773273/ecd33d09-f812-44ce-81d3-b96e9a91d6e8)
 
 ---
-
+## 目錄
+- [作品介紹](#作品介紹)
+- [Demo影片](#Demo影片)
+- [使用工具](#使用工具)
+  
 ## 作品介紹
 Expense Manager APP是我在閒暇時間自主開發的項目。我希望開發一個簡單易用、無廣告干擾的解決方案，讓使用者能輕鬆追蹤財務。
 ### 功能：
@@ -22,7 +26,7 @@ Expense Manager APP是我在閒暇時間自主開發的項目。我希望開發�
 :file_folder: `expense_manager_app`
 
 
-## DEMO 影片
+## Demo影片
 [![expense_cover](https://github.com/YJZeng1120/expense_manager_demo/assets/84773273/534ba401-aced-4273-85aa-075187df07d8)](https://youtu.be/V1HvQEdIZ74)
 
 
