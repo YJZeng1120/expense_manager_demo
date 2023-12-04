@@ -35,8 +35,10 @@ Expense Manager APP是我在閒暇時間自主開發的項目。我希望開發�
             - Bloc (State Management)
             - http (API Request)
             - dartz (Error handling)
-        - All Dependencies: 
-        - <img width="285" alt="dependencies" src="https://github.com/YJZeng1120/expense_manager_demo/assets/84773273/cb5e7ceb-fc2f-47ed-b162-dfbf33eb7d1d">
+        - All Dependencies:
+          
+          ![Dependencies](https://github.com/YJZeng1120/expense_manager_demo/assets/84773273/cb5e7ceb-fc2f-47ed-b162-dfbf33eb7d1d)
+         
 - **Backend**
     - SQLite
     - 串接提供新聞資料的 RESTful API
